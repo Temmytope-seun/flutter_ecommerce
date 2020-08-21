@@ -1,6 +1,6 @@
 # flutter_ecommerce
 
-A new Flutter application.
+An ecommerce application designed with flutter and strapi for the backend.
 
 ## Getting Started
 
