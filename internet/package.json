@@ -1,0 +1,36 @@
+{
+  "name": "internet",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.19.2",
+    "strapi": "3.1.0-alpha.2",
+    "strapi-admin": "3.1.0-alpha.2",
+    "strapi-connector-mongoose": "3.1.0-alpha.2",
+    "strapi-plugin-content-manager": "3.1.0-alpha.2",
+    "strapi-plugin-content-type-builder": "3.1.0-alpha.2",
+    "strapi-plugin-email": "3.1.0-alpha.2",
+    "strapi-plugin-upload": "3.1.0-alpha.2",
+    "strapi-plugin-users-permissions": "^3.1.0-alpha.2",
+    "strapi-utils": "3.1.0-alpha.2"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "1f4cea1f-0a2c-4f38-9215-f292185860e1"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
